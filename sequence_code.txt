@@ -1,0 +1,2 @@
+1)Sign-Up viewdeki axios.post yeri qalib heleki ozum yazmadim.Gedib backendi yazandan sonra yazmaq daha mentiqlidir => 1 saat 42 ci deqiqe, 77setir filan
+2)Login view dede hemcinin backendd yaz sonra gel vue terefini yazarsan
